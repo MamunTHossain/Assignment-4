@@ -4,12 +4,11 @@
 # Table of Contents
 
 
-1. Link for Exercise 1 Zip File https://github.com/MamunTHossain/Assignment-4/commit/bf73a8ba93f29223293402c3465b3c5629a4210f#diff-a8cf725559c656c84e27fa005391852626b41e9c969b17d5914d2d084b17cb1d
+1. Link for Exercise 1 Zip File https://github.com/MamunTHossain/Assignment-4/blob/main/Exercise1.zip
 
-2. [UML + Code Snippet](https://github.com/MamunTHossain/SOFE-3650-Assign1-Design-Patterns/blob/main/Assignment%201_%20Design%20Patterns.pdf)
+2. Link for Exercise 2 Zip FIle https://github.com/MamunTHossain/Assignment-4/blob/main/Exercise2.zip
 
-3. [Code Snippet.txt](https://github.com/MamunTHossain/SOFE-3650-Assign1-Design-Patterns/blob/main/Test%20Driver.rtf)
+When accessing the files, please use the link, and press the download file to upload the ZIP folders.
 
-4. [Test Driver Screendump](https://github.com/MamunTHossain/SOFE-3650-Assign1-Design-Patterns/blob/main/Screen%20Shot%202021-09-19%20at%2010.30.47%20PM.png)
 
-5. [Test Folder with links](https://github.com/MamunTHossain/SOFE-3650-Assign1-Design-Patterns/blob/main/Test)
+
